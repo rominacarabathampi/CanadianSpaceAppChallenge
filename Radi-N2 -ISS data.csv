@@ -1,0 +1,41 @@
+ROBERT THIRSK MISSION DATA,,,,,,
+Start-Date(YYYY/MM/DD),End-Date(YYYY/MM/DD),Measurement-Duration(minutes),Detector-Number,Sensitivity(b/mrem)*,Bubble Count,Calculated-Exposure(mrem)
+2009-09-06,2009-09-13,9872,A92 (1415),0.86,107,124
+2009-10-03,2009-10-10,10793,A92 (1415),0.86,141,164
+2009-11-09,2019-11-16,10069,A92 (1415),0.86,65,76
+,,,,,,
+*Sensitivity calculation : Includes space calibration factor.,,,,,,
+"It should be noted that the results from space include an additional calibration factor of 1.62, which is",,,,,,
+applied to the detector sensitivities in the post-flight analysis. This factor does not apply to groundbased measurements conducted on Earth.,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CHRIS HADFIELD MISSION DATA,,,,,,
+Start-Date(YYYY/MM/DD),End-Date(YYYY/MM/DD),Measurement-Duration(minutes),Detector-Number,Sensitivity(b/mrem)*,Bubble-Count,Calculated-Exposure(mrem)
+2012-12-27,2013-01-03,9123,A92 (1415),0.94,130,138
+2013-01-18,2013-01-25,10199,A92 (1415),0.94,118,126
+2013-02-11,2013-02-18,9793,A92 (1415),0.94,140,148
+2013-03-05,2013-03-12,10106,A92 (1415),0.94,114,121
+,,,,,,
+*Sensitivity calculation : Includes space calibration factor.,,,,,,
+"It should be noted that the results from space include an additional calibration factor of 1.62, which is",,,,,,
+applied to the detector sensitivities in the post-flight analysis. This factor does not apply to groundbased measurements conducted on Earth.,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+DAVID SAINT-JACQUES MISSION DATA,,,,,,
+Start-Date(YYYY/MM/DD),End-Date(YYYY/MM/DD),Measurement-Duration(minutes),Detector-Number,Sensitivity(b/mrem)*,Bubble-Count,Calculated-Exposure(mrem)
+2019-01-15,2019-01-22,10063,A17 (2010),0.64,98,153
+2019-01-15,2019-01-22,10063,A18 (2113),0.8,121,151
+2019-02-19,2019-02-26,10270,A18 (2113),0.8,113,141
+2019-03-19,2019-03-26,10092,A18 (2113),0.8,102,127
+,,,,,,
+,,,,,,
+,,,,,,
+*Sensitivity calculation : Includes space calibration factor.,,,,,,
+"It should be noted that the results from space include an additional calibration factor of 1.62, which is",,,,,,
+applied to the detector sensitivities in the post-flight analysis. This factor does not apply to groundbased measurements conducted on Earth.,,,,,,
