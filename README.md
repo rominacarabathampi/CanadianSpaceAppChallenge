@@ -14,7 +14,7 @@ The files `Radi-N2 -ISS data` and  `Radi-N2 -Schools Project` contain the two fi
 Help Canadians visualize and interpret radiation data collected on the ISS during the missions of Canadian astronauts David Saint-Jacques, Chris Hadfield and Robert Thirsk, and collected on land at various locations across Canada.
 
 ## Links to the teammates projects
-The results of my data cleaning have been used by Tian (https://tliu2014.github.io/spacehacks/)[here] and Alex to build (https://yuanxinwang.github.io/nasa)[this]. 
+The results of my data cleaning have been used by Tian https://tliu2014.github.io/spacehacks/ and Alex to build https://yuanxinwang.github.io/nasa. 
 Shoutout to rest of the team: Amin, Reinhardt, Mridhulaa and Areesa for working on this and winning.
 
 ## Thank You
